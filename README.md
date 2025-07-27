@@ -39,7 +39,7 @@
 
 | **Qualification** | **Institution** | **Year** | **Grade** |
 |------------------|----------------|----------|-----------|
-| **Chartered Accountancy** | ICAI | 2022 | Merit |
+| **Chartered Accountancy** | ICAI | 2022 | Pass |
 | **M.Com** | IGNOU | 2021 | First Class |
 | **B.Com (Hons.)** | Delhi University (SOL) | 2014 | Second Class |
 
