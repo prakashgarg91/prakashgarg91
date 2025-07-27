@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Chartered+Accountant;Exploring+AI-Assisted+Development;Finance+%2B+Technology+Innovation" alt="Typing SVG" />
 </div>
 
-## 👨‍💼 Professional Profile
+## Professional Profile
 
-**Chartered Accountant** with 7+ years of comprehensive experience in financial management, internal auditing, and regulatory compliance. Currently exploring the transformative potential of AI-assisted development and modern technology solutions in financial services.
+**Chartered Accountant** with 9+ years of comprehensive experience in financial management, internal auditing, and regulatory compliance. Currently exploring the transformative potential of AI-assisted development and modern technology solutions in financial services.
 
-### 🎯 Current Focus
+### Current Focus
 - **AI-Assisted Development**: Leveraging GitHub Copilot and modern coding tools
 - **Financial Technology**: Bridging traditional accounting with innovative tech solutions  
 - **Process Automation**: Developing intelligent systems for compliance and reporting
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Account Executive/Internal Auditor**
 **Mittal Electronics** | *Nov 2019 - Present*  
@@ -35,7 +35,7 @@
 - Tax audit schedule preparation and depreciation analysis
 - Stock verification and vendor reconciliation processes
 
-## 🎓 Professional Qualifications
+## Professional Qualifications
 
 | **Qualification** | **Institution** | **Year** | **Grade** |
 |------------------|----------------|----------|-----------|
@@ -43,7 +43,7 @@
 | **M.Com** | IGNOU | 2021 | First Class |
 | **B.Com (Hons.)** | Delhi University (SOL) | 2014 | Second Class |
 
-## 🛠️ Professional Expertise
+## Professional Expertise
 
 ### **Financial & Compliance**
 ![Taxation](https://img.shields.io/badge/Taxation-0052CC?style=for-the-badge&logo=calculator&logoColor=white)
@@ -63,7 +63,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Professional Stats
+## Professional Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakashgarg91&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=0066CC&icon_color=0066CC&text_color=333333&bg_color=FFFFFF" alt="GitHub Stats" />
@@ -87,7 +87,7 @@
 - **Modern Tools**: GitHub, VS Code, AI-assisted development
 - **Automation**: Semi-automated payment systems and data processing
 
-## 🚀 Innovation Focus Areas
+## Innovation Focus Areas
 
 ### **AI-Enhanced Financial Processes**
 Exploring how artificial intelligence and modern development tools can revolutionize:
@@ -103,7 +103,7 @@ Developing understanding of:
 - Cloud-based financial platforms
 - Data security in financial applications
 
-## 🌟 Professional Value Proposition
+## Professional Value Proposition
 
 **Unique Combination**: Traditional financial expertise meets modern technology innovation
 
@@ -113,7 +113,7 @@ Developing understanding of:
 - **Analytical Mindset**: Strong problem-solving abilities refined through auditing experience
 - **Innovation Drive**: Passionate about modernizing traditional accounting practices
 
-## 📞 Professional Contact
+## Professional Contact
 
 <div align="center">
 
@@ -123,9 +123,9 @@ Developing understanding of:
 
 </div>
 
-## 🌍 Location
+## Location
 
-**📍 Delhi, India** | **🗣️ Hindi • English**
+**Delhi, India** | ** Hindi • English**
 
 ---
 
