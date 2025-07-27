@@ -1,7 +1,7 @@
 # Prakash Gupta,
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Chartered+Accountant+%7C+Financial+Expert;Exploring+AI-Assisted+Development;Finance+%2B+Technology+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Chartered+Accountant;Exploring+AI-Assisted+Development;Finance+%2B+Technology+Innovation" alt="Typing SVG" />
 </div>
 
 ## 👨‍💼 Professional Profile
