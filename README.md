@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashgarg91&theme=default&hide_border=true&title_color=0066CC&text_color=333333&bg_color=FFFFFF&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 Core Competencies
+## Core Competencies
 
 ### **Financial Expertise**
 - **Regulatory Compliance**: TDS, GST, Income Tax, ROC filings
